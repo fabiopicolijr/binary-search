@@ -18,9 +18,7 @@ module.exports = {
       } else {
         lower = middle + 1;
       }
-    }
-
-    console.log(middle);
+    }    
 
     return 'None';
   }

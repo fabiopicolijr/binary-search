@@ -13,4 +13,5 @@ describe('Binary Search Tests', () => {
 
     expect(binarySearch.search(list, 2)).toEqual(1);
   });
+  
 });
